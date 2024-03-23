@@ -39,3 +39,4 @@ echo "2a問題の確認\n";
 $i = 2;
 var_dump($i == '2a');
 var_dump($i === '2a');
+
