@@ -6,7 +6,7 @@ $array = [
     1 => '2nd',
     "key2" => 3.14,
 ];
-    
+
 //foreachで処理
 foreach($array as $k => $v) {
     echo "{$k} -> {$v} \n";
