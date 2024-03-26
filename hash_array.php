@@ -7,4 +7,3 @@ $hash_array = [
     ];
     //
     var_dump($hash_array);
-    
