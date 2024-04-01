@@ -4,7 +4,7 @@ class MyClass
 {
     // オブジェクト定数の宣言
     const HOGE = 'string';
-    
+
      // コンストラクタ
     public function __construct()
     {
